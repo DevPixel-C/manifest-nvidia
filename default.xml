@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="incom" fetch="http://gitlab.incom.co/" />
+
+	<default revision="master" remote="incom" sync-j="4" />
+
+	<project name="CM-Shield/manifest.git" path="manifest" />
+
+	<project name="CM-Shield/android_device_nvidia_dalmore.git" />
+	<project name="CM-Shield/android_device_nvidia_roth.git" />
+	<project name="CM-Shield/android_device_nvidia_shieldtablet.git" />
+	<project name="CM-Shield/android_device_nvidia_jetson-tk1.git" />
+	<project name="CM-Shield/android_device_nvidia_foster.git" />
+	<project name="CM-Shield/android_device_nvidia_foster_tab.git" />
+
+	<project name="CM-Shield/android_device_nvidia_t114-common.git" />
+	<project name="CM-Shield/android_device_nvidia_t124-common.git" />
+	<project name="CM-Shield/android_device_nvidia_t210-common.git" />
+	<project name="CM-Shield/android_device_nvidia_t186-common.git" />
+	<project name="CM-Shield/android_device_nvidia_t194-common.git" />
+	<project name="CM-Shield/android_device_nvidia_tegra-common.git" />
+	<project name="CM-Shield/android_device_nvidia_shield-common.git" />
+
+	<project name="CM-Shield/android_device_nvidia_icera.git" />
+	<project name="CM-Shield/android_device_nvidia_touch.git" />
+
+	<project name="CM-Shield/android_kernel_nvidia_roth.git" />
+	<project name="CM-Shield/android_kernel_nvidia_shield.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9.git" />
+	<project name="CM-Shield/android_kernel_nvidia_mainline.git" />
+
+	<project name="CM-Shield/android_hardware_nvidia_light.git" />
+	<project name="CM-Shield/android_hardware_nvidia_memtrack.git" />
+	<project name="CM-Shield/android_hardware_nvidia_power.git" />
+	<project name="CM-Shield/android_hardware_nvidia_thermal.git" />
+	<project name="CM-Shield/android_hardware_nvidia_libstagefrighthw.git" />
+	<project name="CM-Shield/android_hardware_nvidia_sensors.git" />
+
+	<project name="CM-Shield/proprietary_vendor_nvidia.git" />
+</manifest>
