@@ -4,7 +4,9 @@
 
 	<default revision="master" remote="incom" sync-j="4" />
 
-	<project name="CM-Shield/manifest.git" path="manifest" />
+	<project name="CM-Shield/manifest.git" />
+
+	<project name="CM-Shield/android_bootable_cboot.git" />
 
 	<project name="CM-Shield/android_device_nvidia_dalmore.git" />
 	<project name="CM-Shield/android_device_nvidia_roth.git" />
