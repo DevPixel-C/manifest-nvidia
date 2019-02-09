@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="incom" fetch="http://gitlab.incom.co/" />
+	<remote name="incom" fetch="https://gitlab.incom.co/" />
 
 	<default revision="master" remote="incom" sync-j="4" />
 
