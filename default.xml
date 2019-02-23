@@ -28,8 +28,38 @@
 
 	<project name="CM-Shield/android_kernel_nvidia_roth.git" />
 	<project name="CM-Shield/android_kernel_nvidia_shield.git" />
-	<project name="CM-Shield/android_kernel_nvidia_linux-4.9.git" />
 	<project name="CM-Shield/android_kernel_nvidia_mainline.git" />
+
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_kernel_kernel-4.9.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_kernel_nvgpu.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_kernel_nvidia.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_abca.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_ers.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_fpga.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_hawkeye.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_misc.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_orca.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_sim.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_vcm.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_abca.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_porg.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_bct.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x.git" />
 
 	<project name="CM-Shield/android_hardware_nvidia_light.git" />
 	<project name="CM-Shield/android_hardware_nvidia_memtrack.git" />
