@@ -8,6 +8,8 @@
 
 	<project name="CM-Shield/android_bootable_cboot.git" />
 
+	<project name="CM-Shield/android_device_nintendo_icosa.git" />
+
 	<project name="CM-Shield/android_device_nvidia_dalmore.git" />
 	<project name="CM-Shield/android_device_nvidia_roth.git" />
 	<project name="CM-Shield/android_device_nvidia_shieldtablet.git" />
