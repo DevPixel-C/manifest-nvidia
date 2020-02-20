@@ -70,6 +70,7 @@
 
 	<project name="CM-Shield/android_kernel_nvidia_cypress-fmac.git" />
 
+	<project name="CM-Shield/android_hardware_nvidia_interfaces.git" />
 	<project name="CM-Shield/android_hardware_nvidia_light.git" />
 	<project name="CM-Shield/android_hardware_nvidia_memtrack.git" />
 	<project name="CM-Shield/android_hardware_nvidia_power.git" />
