@@ -70,6 +70,16 @@
 
 	<project name="CM-Shield/android_kernel_nvidia_cypress-fmac.git" />
 
+	<project name="CM-Shield/android_external_drm_hwcomposer.git" />
+	<project name="CM-Shield/android_external_gbm_gralloc.git" />
+	<project name="CM-Shield/android_external_libdrm.git" />
+	<project name="CM-Shield/android_external_libevdev.git" />
+	<project name="CM-Shield/android_external_mesa3d.git" />
+	<project name="CM-Shield/android_external_minigbm.git" />
+	<project name="CM-Shield/android_external_tinyhal.git" />
+
+	<project name="CM-Shield/android_hardware_nintendo_joycond.git" />
+
 	<project name="CM-Shield/android_hardware_nvidia_interfaces.git" />
 	<project name="CM-Shield/android_hardware_nvidia_light.git" />
 	<project name="CM-Shield/android_hardware_nvidia_memtrack.git" />
