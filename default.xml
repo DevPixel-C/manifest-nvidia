@@ -94,4 +94,7 @@
 
 	<project name="CM-Shield/proprietary_vendor_firmware.git" />
 	<project name="CM-Shield/proprietary_vendor_nvidia.git" />
+
+	<project name="CM-Shield/trusty_device_nvidia.git" />
+	<project name="CM-Shield/trusty_hardware_nvidia.git" />
 </manifest>
