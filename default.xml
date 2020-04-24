@@ -81,6 +81,7 @@
 
 	<project name="CM-Shield/android_hardware_nintendo_joycond.git" />
 
+	<project name="CM-Shield/android_hardware_nvidia_boot_control.git" />
 	<project name="CM-Shield/android_hardware_nvidia_interfaces.git" />
 	<project name="CM-Shield/android_hardware_nvidia_light.git" />
 	<project name="CM-Shield/android_hardware_nvidia_memtrack.git" />
