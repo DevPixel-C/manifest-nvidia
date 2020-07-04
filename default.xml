@@ -2,6 +2,8 @@
 <manifest>
 	<remote name="incom" fetch="https://gitlab.incom.co/" revision="lineage-16.0" />
 
+	<project name="CM-Shield/android_device_google_dragonshield.git" path="device/google/dragonshield" remote="incom" />
+
 	<project name="CM-Shield/android_device_nintendo_icosa.git" path="device/nintendo/icosa" remote="incom" />
 
 	<project name="CM-Shield/android_device_nvidia_dalmore.git" path="device/nvidia/dalmore" remote="incom" />
