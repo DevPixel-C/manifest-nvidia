@@ -11,6 +11,8 @@
 	<project name="CM-Shield/android_bootable_cboot_t18x.git" />
 	<project name="CM-Shield/android_bootable_cboot_t19x.git" />
 
+	<project name="CM-Shield/android_device_google_dragonshield.git" />
+
 	<project name="CM-Shield/android_device_nintendo_icosa.git" />
 
 	<project name="CM-Shield/android_device_nvidia_dalmore.git" />
