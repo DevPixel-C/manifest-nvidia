@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="incom" fetch="https://gitlab.incom.co/" revision="lineage-17.1" />
+	<remote name="incom" fetch="https://gitlab.incom.co/" revision="lineage-18.0" />
 
 	<project name="CM-Shield/android_device_google_dragonshield.git" path="device/google/dragonshield" remote="incom" />
 
