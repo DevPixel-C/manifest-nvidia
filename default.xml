@@ -38,6 +38,7 @@
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/tegra/common" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/soc/tegra" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_abca.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/abca" remote="incom" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/batuu/kernel-dts" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/common" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_ers.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/ers" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/foster" remote="incom" />
