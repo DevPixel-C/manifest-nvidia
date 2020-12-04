@@ -80,6 +80,7 @@
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x.git" />
 
 	<project name="CM-Shield/android_kernel_nvidia_cypress-fmac.git" />
+	<project name="CM-Shield/android_kernel_nvidia_wireguard.git" />
 
 	<project name="CM-Shield/android_external_drm_hwcomposer.git" />
 	<project name="CM-Shield/android_external_gbm_gralloc.git" />
