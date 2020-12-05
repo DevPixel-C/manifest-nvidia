@@ -68,6 +68,7 @@
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/soc/t19x" remote="incom" />
 
 	<project name="CM-Shield/android_kernel_nvidia_cypress-fmac.git" path="kernel/nvidia/cypress-fmac" remote="incom" />
+	<project name="CM-Shield/android_kernel_nvidia_wireguard.git" path="kernel/nvidia/wireguard" remote="incom" revision="master" />
 
 	<project name="CM-Shield/android_external_libevdev.git" path="external/libevdev" remote="incom" />
 
