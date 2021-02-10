@@ -14,6 +14,8 @@
 	<project name="CM-Shield/android_device_google_dragonshield.git" />
 
 	<project name="CM-Shield/android_device_nintendo_icosa.git" />
+	<project name="CM-Shield/android_device_nintendo_icosa_sr.git" />
+	<project name="CM-Shield/android_device_nintendo_icosa_tv_sr.git" />
 
 	<project name="CM-Shield/android_device_nvidia_dalmore.git" />
 	<project name="CM-Shield/android_device_nvidia_roth.git" />
