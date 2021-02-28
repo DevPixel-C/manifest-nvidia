@@ -60,6 +60,7 @@
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_porg.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/porg" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/sif" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t18x/common" remote="incom" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t18x/lanai" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t18x/quill" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/soc/t18x" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common.git" path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t19x/common" remote="incom" />
