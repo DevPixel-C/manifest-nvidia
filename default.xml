@@ -47,6 +47,7 @@
 	<project name="CM-Shield/android_kernel_nvidia_shield.git" />
 	<project name="CM-Shield/android_kernel_nvidia_mainline.git" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-5.4.git" />
+	<project name="CM-Shield/android_kernel_nvidia_linux-firmware.git" />
 
 	<project name="CM-Shield/android_kernel_nvidia_kernel.git" />
 	<project name="CM-Shield/android_kernel_nvidia_nvgpu.git" />
