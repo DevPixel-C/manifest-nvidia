@@ -8,6 +8,7 @@
 
 	<project name="CM-Shield/android_bootable_cboot_common.git" />
 	<project name="CM-Shield/android_bootable_cboot_lk.git" />
+	<project name="CM-Shield/android_bootable_cboot_t21x.git" />
 	<project name="CM-Shield/android_bootable_cboot_t18x.git" />
 	<project name="CM-Shield/android_bootable_cboot_t19x.git" />
 
