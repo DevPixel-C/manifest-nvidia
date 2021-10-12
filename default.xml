@@ -25,7 +25,9 @@
 	<project name="CM-Shield/android_device_nvidia_foster.git" />
 	<project name="CM-Shield/android_device_nvidia_foster_tab.git" />
 	<project name="CM-Shield/android_device_nvidia_mdarcy.git" />
+	<project name="CM-Shield/android_device_nvidia_mdarcy_tab.git" />
 	<project name="CM-Shield/android_device_nvidia_porg.git" />
+	<project name="CM-Shield/android_device_nvidia_porg_tab.git" />
 	<project name="CM-Shield/android_device_nvidia_quill.git" />
 	<project name="CM-Shield/android_device_nvidia_quill_tab.git" />
 	<project name="CM-Shield/android_device_nvidia_galen.git" />
