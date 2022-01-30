@@ -128,6 +128,8 @@
 	<project name="CM-Shield/android_external_minigbm.git" />
 	<project name="CM-Shield/android_external_tinyhal.git" />
 
+	<project name="CM-Shield/android_hardware_dolby_interfaces.git" />
+
 	<project name="CM-Shield/android_hardware_nintendo_joycond.git" />
 
 	<project name="CM-Shield/android_hardware_nvidia_boot_control.git" />
