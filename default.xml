@@ -69,6 +69,8 @@
 
 	<project name="CM-Shield/android_external_libevdev.git" path="external/libevdev" remote="incom" />
 
+	<project name="CM-Shield/android_hardware_dolby_interfaces.git" path="hardware/dolby/interfaces" remote="incom" />
+
 	<project name="CM-Shield/android_hardware_nintendo_joycond.git" path="hardware/nintendo/joycond" remote="incom" />
 
 	<project name="CM-Shield/android_hardware_nvidia_boot_control.git" path="hardware/nvidia/boot_control" remote="incom" />
