@@ -39,6 +39,7 @@
 	<project name="CM-Shield/android_device_nvidia_t210-common.git" />
 	<project name="CM-Shield/android_device_nvidia_t186-common.git" />
 	<project name="CM-Shield/android_device_nvidia_t194-common.git" />
+	<project name="CM-Shield/android_device_nvidia_t234-common.git" />
 	<project name="CM-Shield/android_device_nvidia_tegra-common.git" />
 	<project name="CM-Shield/android_device_nvidia_shield-common.git" />
 
