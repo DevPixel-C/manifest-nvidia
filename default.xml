@@ -27,6 +27,7 @@
 	<project name="CM-Shield/android_device_nvidia_t186-common.git" path="device/nvidia/t186-common" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_t194-common.git" path="device/nvidia/t194-common" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_t210-common.git" path="device/nvidia/t210-common" remote="incom" />
+	<project name="CM-Shield/android_device_nvidia_t234-common.git" path="device/nvidia/t234-common" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_shield-common.git" path="device/nvidia/shield-common" remote="incom" />
 
 	<project name="CM-Shield/android_device_nvidia_sepolicy.git" path="device/nvidia/sepolicy" remote="incom" />
@@ -63,6 +64,9 @@
 	<project name="CM-Shield/android_hardware_nvidia_platform_t19x_jakku_kernel-dts.git" path="hardware/nvidia/platform/t19x/jakku/kernel-dts" remote="incom" />
 	<project name="CM-Shield/android_hardware_nvidia_platform_t19x_mccoy_kernel-dts.git" path="hardware/nvidia/platform/t19x/mccoy/kernel-dts" remote="incom" />
 	<project name="CM-Shield/android_hardware_nvidia_soc_t19x.git" path="hardware/nvidia/soc/t19x" remote="incom" />
+	<project name="CM-Shield/android_hardware_nvidia_platform_t23x_common_kernel-dts.git" path="hardware/nvidia/platform/t23x/common/kernel-dts" remote="incom" />
+	<project name="CM-Shield/android_hardware_nvidia_platform_t23x_concord_kernel-dts.git" path="hardware/nvidia/platform/t23x/concord/kernel-dts" remote="incom" />
+	<project name="CM-Shield/android_hardware_nvidia_soc_t23x.git" path="hardware/nvidia/soc/t23x" remote="incom" />
 
 	<project name="CM-Shield/android_kernel_nvidia_cypress-fmac.git" path="kernel/nvidia/cypress-fmac" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_wireguard.git" path="kernel/nvidia/wireguard" remote="incom" revision="master" />
