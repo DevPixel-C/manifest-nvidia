@@ -80,6 +80,9 @@
 	<project name="CM-Shield/android_hardware_nvidia_platform_t19x_jakku_kernel-dts.git" />
 	<project name="CM-Shield/android_hardware_nvidia_platform_t19x_mccoy_kernel-dts.git" />
 	<project name="CM-Shield/android_hardware_nvidia_soc_t19x.git" />
+	<project name="CM-Shield/android_hardware_nvidia_platform_t23x_common_kernel-dts.git" />
+	<project name="CM-Shield/android_hardware_nvidia_platform_t23x_concord_kernel-dts.git" />
+	<project name="CM-Shield/android_hardware_nvidia_soc_t23x.git" />
 
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_kernel_kernel-4.9.git" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-4.9_kernel_nvgpu.git" />
