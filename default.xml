@@ -33,6 +33,8 @@
 	<project name="CM-Shield/android_device_nvidia_quill_tab.git" />
 	<project name="CM-Shield/android_device_nvidia_galen.git" />
 	<project name="CM-Shield/android_device_nvidia_galen_tab.git" />
+	<project name="CM-Shield/android_device_nvidia_concord.git" />
+	<project name="CM-Shield/android_device_nvidia_concord_tab.git" />
 
 	<project name="CM-Shield/android_device_nvidia_t114-common.git" />
 	<project name="CM-Shield/android_device_nvidia_t124-common.git" />
