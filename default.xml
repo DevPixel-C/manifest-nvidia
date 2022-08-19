@@ -6,10 +6,6 @@
 
 	<project name="CM-Shield/android_device_nintendo_icosa.git" path="device/nintendo/icosa" remote="incom" />
 
-	<project name="CM-Shield/android_device_nvidia_dalmore.git" path="device/nvidia/dalmore" remote="incom" />
-	<project name="CM-Shield/android_device_nvidia_roth.git" path="device/nvidia/roth" remote="incom" />
-	<project name="CM-Shield/android_device_nvidia_shieldtablet.git" path="device/nvidia/shieldtablet" remote="incom" />
-	<project name="CM-Shield/android_device_nvidia_jetson.git" path="device/nvidia/jetson" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_foster.git" path="device/nvidia/foster" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_quill.git" path="device/nvidia/quill" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_galen.git" path="device/nvidia/galen" remote="incom" />
@@ -18,14 +14,10 @@
 	<project name="CM-Shield/android_device_nvidia_galen_tab.git" path="device/nvidia/galen_tab" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_porg.git" path="device/nvidia/porg" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_porg_tab.git" path="device/nvidia/porg_tab" remote="incom" />
-	<project name="CM-Shield/android_device_nvidia_mdarcy.git" path="device/nvidia/mdarcy" remote="incom" />
-	<project name="CM-Shield/android_device_nvidia_mdarcy_tab.git" path="device/nvidia/mdarcy_tab" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_concord.git" path="device/nvidia/concord" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_concord_tab.git" path="device/nvidia/concord_tab" remote="incom" />
 
 	<project name="CM-Shield/android_device_nvidia_tegra-common.git" path="device/nvidia/tegra-common" remote="incom" />
-	<project name="CM-Shield/android_device_nvidia_t114-common.git" path="device/nvidia/t114-common" remote="incom" />
-	<project name="CM-Shield/android_device_nvidia_t124-common.git" path="device/nvidia/t124-common" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_t186-common.git" path="device/nvidia/t186-common" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_t194-common.git" path="device/nvidia/t194-common" remote="incom" />
 	<project name="CM-Shield/android_device_nvidia_t210-common.git" path="device/nvidia/t210-common" remote="incom" />
@@ -34,13 +26,10 @@
 
 	<project name="CM-Shield/android_device_nvidia_sepolicy.git" path="device/nvidia/sepolicy" remote="incom" />
 
-	<project name="CM-Shield/android_device_nvidia_icera.git" path="device/nvidia/icera" remote="incom" />
-	<project name="CM-Shield/android_device_nvidia_touch.git" path="device/nvidia/touch" remote="incom" />
-
-	<project name="CM-Shield/android_kernel_nvidia_shield.git" path="kernel/nvidia/shield" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_linux-firmware.git" path="kernel/nvidia/linux-firmware" remote="incom" />
 
-	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-4.9" remote="incom" revision="lineage-18.1_4.9" />
+	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-4.9" remote="incom" revision="lineage-19.1_4.9" />
+	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-5.10" remote="incom" revision="lineage-19.1_5.10" />
 	<project name="CM-Shield/android_kernel_nvidia_nvidia.git" path="kernel/nvidia/nvidia" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_nvgpu.git" path="kernel/nvidia/nvgpu" remote="incom" />
 	<project name="CM-Shield/android_hardware_nvidia_platform_tegra_common.git" path="hardware/nvidia/platform/tegra/common" remote="incom" />
@@ -82,12 +71,8 @@
 	<project name="CM-Shield/android_hardware_nvidia_boot_control.git" path="hardware/nvidia/boot_control" remote="incom" />
 	<project name="CM-Shield/android_hardware_nvidia_interfaces.git" path="hardware/nvidia/interfaces" remote="incom" />
 	<project name="CM-Shield/android_hardware_nvidia_light.git" path="hardware/nvidia/light" remote="incom" />
-	<project name="CM-Shield/android_hardware_nvidia_memtrack.git" path="hardware/nvidia/memtrack" remote="incom" />
 	<project name="CM-Shield/android_hardware_nvidia_power.git" path="hardware/nvidia/power" remote="incom" />
 	<project name="CM-Shield/android_hardware_nvidia_thermal.git" path="hardware/nvidia/thermal" remote="incom" />
-	<project name="CM-Shield/android_hardware_nvidia_sensors.git" path="hardware/nvidia/sensors" remote="incom" />
-
-	<project name="CM-Shield/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-6.4.1" remote="incom" />
 
 	<project name="CM-Shield/proprietary_vendor_nvidia.git" path="vendor/nvidia" remote="incom" />
 </manifest>
