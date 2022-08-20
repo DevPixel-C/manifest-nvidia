@@ -13,6 +13,7 @@
 	<project name="CM-Shield/android_bootable_cboot_t19x.git" />
 
 	<project name="CM-Shield/android_bootable_tianocore_edk2.git" />
+	<project name="CM-Shield/android_bootable_tianocore_edk2-non-osi.git" />
 	<project name="CM-Shield/android_bootable_tianocore_edk2-nvidia.git" />
 	<project name="CM-Shield/android_bootable_tianocore_edk2-nvidia-non-osi.git" />
 	<project name="CM-Shield/android_bootable_tianocore_edk2-platforms.git" />
