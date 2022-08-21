@@ -133,6 +133,7 @@
 	<project name="CM-Shield/android_kernel_nvidia_cypress-fmac.git" />
 	<project name="CM-Shield/android_kernel_nvidia_wireguard.git" />
 
+	<project name="CM-Shield/android_external_arm-trusted-firmware.git" />
 	<project name="CM-Shield/android_external_drm_hwcomposer.git" />
 	<project name="CM-Shield/android_external_gbm_gralloc.git" />
 	<project name="CM-Shield/android_external_libdrm.git" />
