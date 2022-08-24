@@ -63,6 +63,7 @@
 	<project name="CM-Shield/android_kernel_nvidia_linux-firmware.git" />
 
 	<project name="CM-Shield/android_kernel_nvidia_kernel.git" />
+	<project name="CM-Shield/android_kernel_nvidia_nvethernetrm.git" />
 	<project name="CM-Shield/android_kernel_nvidia_nvgpu.git" />
 	<project name="CM-Shield/android_kernel_nvidia_nvidia.git" />
 	<project name="CM-Shield/android_hardware_nvidia_platform_tegra_common.git" />
