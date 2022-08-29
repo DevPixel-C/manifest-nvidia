@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="incom" fetch="https://gitlab.incom.co/" revision="lineage-19.1" />
+	<remote name="incom" fetch="https://gitlab.incom.co/" revision="lineage-20" />
 
-	<project name="CM-Shield/android_bootable_cboot_common.git" path="bootable/cboot/common" remote="incom" />
-	<project name="CM-Shield/android_bootable_cboot_lk.git" path="bootable/cboot/lk" remote="incom" />
-	<project name="CM-Shield/android_bootable_cboot_t18x.git" path="bootable/cboot/t18x" remote="incom" />
-	<project name="CM-Shield/android_bootable_cboot_t19x.git" path="bootable/cboot/t19x" remote="incom" />
+	<project name="CM-Shield/android_bootable_cboot_common.git" path="bootable/cboot/common" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_bootable_cboot_lk.git" path="bootable/cboot/lk" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_bootable_cboot_t18x.git" path="bootable/cboot/t18x" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_bootable_cboot_t19x.git" path="bootable/cboot/t19x" remote="incom" revision="lineage-20.0" />
 
-	<project name="CM-Shield/android_bootable_tianocore_edk2.git" path="bootable/tianocore/edk2" remote="incom" />
-	<project name="CM-Shield/android_bootable_tianocore_edk2-non-osi.git" path="bootable/tianocore/edk2-non-osi" remote="incom" />
-	<project name="CM-Shield/android_bootable_tianocore_edk2-nvidia.git" path="bootable/tianocore/edk2-nvidia" remote="incom" />
-	<project name="CM-Shield/android_bootable_tianocore_edk2-nvidia-non-osi.git" path="bootable/tianocore/edk2-nvidia-non-osi" remote="incom" />
-	<project name="CM-Shield/android_bootable_tianocore_edk2-platforms.git" path="bootable/tianocore/edk2-platforms" remote="incom" />
+	<project name="CM-Shield/android_bootable_tianocore_edk2.git" path="bootable/tianocore/edk2" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_bootable_tianocore_edk2-non-osi.git" path="bootable/tianocore/edk2-non-osi" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_bootable_tianocore_edk2-nvidia.git" path="bootable/tianocore/edk2-nvidia" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_bootable_tianocore_edk2-nvidia-non-osi.git" path="bootable/tianocore/edk2-nvidia-non-osi" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_bootable_tianocore_edk2-platforms.git" path="bootable/tianocore/edk2-platforms" remote="incom" revision="lineage-20.0" />
 
-	<project name="CM-Shield/android_bootable_tianocore_cmocka.git" path="bootable/tianocore/edk2/UnitTestFrameworkPkg/Library/CmockaLib/cmocka" remote="incom" />
-	<project name="CM-Shield/android_bootable_tianocore_jansson.git" path="bootable/tianocore/edk2/RedfishPkg/Library/JsonLib/jansson" remote="incom" />
+	<project name="CM-Shield/android_bootable_tianocore_cmocka.git" path="bootable/tianocore/edk2/UnitTestFrameworkPkg/Library/CmockaLib/cmocka" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_bootable_tianocore_jansson.git" path="bootable/tianocore/edk2/RedfishPkg/Library/JsonLib/jansson" remote="incom" revision="lineage-20.0" />
 	<project name="platform/external/openssl" path="bootable/tianocore/edk2/CryptoPkg/Library/OpensslLib/openssl" remote="aosp" revision="refs/tags/upstream-OpenSSL_1_1_1n" />
 
 	<project name="CM-Shield/android_device_google_dragonshield.git" path="device/google/dragonshield" remote="incom" />
@@ -43,8 +43,8 @@
 
 	<project name="CM-Shield/android_kernel_nvidia_linux-firmware.git" path="kernel/nvidia/linux-firmware" remote="incom" />
 
-	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-4.9" remote="incom" revision="lineage-19.1_4.9" />
-	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-5.10" remote="incom" revision="lineage-19.1_5.10" />
+	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-4.9" remote="incom" revision="lineage-20_4.9" />
+	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-5.10" remote="incom" revision="lineage-20_5.10" />
 	<project name="CM-Shield/android_kernel_nvidia_nvidia.git" path="kernel/nvidia/nvidia" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_nvethernetrm.git" path="kernel/nvidia/nvidia/drivers/net/ethernet/nvidia/nvethernet/nvethernetrm" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_nvgpu.git" path="kernel/nvidia/nvgpu" remote="incom" />
@@ -78,17 +78,18 @@
 	<project name="CM-Shield/android_kernel_nvidia_cypress-fmac.git" path="kernel/nvidia/cypress-fmac" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_wireguard.git" path="kernel/nvidia/wireguard" remote="incom" revision="master" />
 
-	<project name="CM-Shield/android_external_libevdev.git" path="external/libevdev" remote="incom" />
+	<!-- Platform projects use full version number -->
+	<project name="CM-Shield/android_external_libevdev.git" path="external/libevdev" remote="incom" revision="lineage-20.0" />
 
-	<project name="CM-Shield/android_hardware_dolby_interfaces.git" path="hardware/dolby/interfaces" remote="incom" />
+	<project name="CM-Shield/android_hardware_dolby_interfaces.git" path="hardware/dolby/interfaces" remote="incom" revision="lineage-20.0" />
 
-	<project name="CM-Shield/android_hardware_nintendo_joycond.git" path="hardware/nintendo/joycond" remote="incom" />
+	<project name="CM-Shield/android_hardware_nintendo_joycond.git" path="hardware/nintendo/joycond" remote="incom" revision="lineage-20.0" />
 
-	<project name="CM-Shield/android_hardware_nvidia_boot_control.git" path="hardware/nvidia/boot_control" remote="incom" />
-	<project name="CM-Shield/android_hardware_nvidia_interfaces.git" path="hardware/nvidia/interfaces" remote="incom" />
-	<project name="CM-Shield/android_hardware_nvidia_light.git" path="hardware/nvidia/light" remote="incom" />
-	<project name="CM-Shield/android_hardware_nvidia_power.git" path="hardware/nvidia/power" remote="incom" />
-	<project name="CM-Shield/android_hardware_nvidia_thermal.git" path="hardware/nvidia/thermal" remote="incom" />
+	<project name="CM-Shield/android_hardware_nvidia_boot_control.git" path="hardware/nvidia/boot_control" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_hardware_nvidia_interfaces.git" path="hardware/nvidia/interfaces" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_hardware_nvidia_light.git" path="hardware/nvidia/light" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_hardware_nvidia_power.git" path="hardware/nvidia/power" remote="incom" revision="lineage-20.0" />
+	<project name="CM-Shield/android_hardware_nvidia_thermal.git" path="hardware/nvidia/thermal" remote="incom" revision="lineage-20.0" />
 
 	<project name="CM-Shield/proprietary_vendor_nvidia.git" path="vendor/nvidia" remote="incom" />
 </manifest>
