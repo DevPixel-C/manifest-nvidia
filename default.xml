@@ -18,6 +18,9 @@
 	<project name="CM-Shield/android_bootable_tianocore_edk2-nvidia-non-osi.git" />
 	<project name="CM-Shield/android_bootable_tianocore_edk2-platforms.git" />
 
+	<project name="CM-Shield/android_bootable_tianocore_cmocka.git" />
+	<project name="CM-Shield/android_bootable_tianocore_jansson.git" />
+
 	<project name="CM-Shield/android_device_google_dragonshield.git" />
 	<project name="CM-Shield/android_device_google_yellowstone.git" />
 
