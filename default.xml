@@ -31,6 +31,7 @@
 	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-4.9" remote="incom" revision="lineage-19.1_4.9" />
 	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-5.10" remote="incom" revision="lineage-19.1_5.10" />
 	<project name="CM-Shield/android_kernel_nvidia_nvidia.git" path="kernel/nvidia/nvidia" remote="incom" />
+	<project name="CM-Shield/android_kernel_nvidia_nvethernetrm.git" path="kernel/nvidia/nvidia/drivers/net/ethernet/nvidia/nvethernet/nvethernetrm" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_nvgpu.git" path="kernel/nvidia/nvgpu" remote="incom" />
 	<project name="CM-Shield/android_hardware_nvidia_platform_tegra_common.git" path="hardware/nvidia/platform/tegra/common" remote="incom" />
 	<project name="CM-Shield/android_hardware_nvidia_soc_tegra.git" path="hardware/nvidia/soc/tegra" remote="incom" />
