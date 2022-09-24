@@ -7,6 +7,16 @@
 	<project name="CM-Shield/android_bootable_cboot_t18x.git" path="bootable/cboot/t18x" remote="incom" />
 	<project name="CM-Shield/android_bootable_cboot_t19x.git" path="bootable/cboot/t19x" remote="incom" />
 
+	<project name="CM-Shield/android_bootable_tianocore_edk2.git" path="bootable/tianocore/edk2" remote="incom" />
+	<project name="CM-Shield/android_bootable_tianocore_edk2-non-osi.git" path="bootable/tianocore/edk2-non-osi" remote="incom" />
+	<project name="CM-Shield/android_bootable_tianocore_edk2-nvidia.git" path="bootable/tianocore/edk2-nvidia" remote="incom" />
+	<project name="CM-Shield/android_bootable_tianocore_edk2-nvidia-non-osi.git" path="bootable/tianocore/edk2-nvidia-non-osi" remote="incom" />
+	<project name="CM-Shield/android_bootable_tianocore_edk2-platforms.git" path="bootable/tianocore/edk2-platforms" remote="incom" />
+
+	<project name="CM-Shield/android_bootable_tianocore_cmocka.git" path="bootable/tianocore/edk2/UnitTestFrameworkPkg/Library/CmockaLib/cmocka" remote="incom" />
+	<project name="CM-Shield/android_bootable_tianocore_jansson.git" path="bootable/tianocore/edk2/RedfishPkg/Library/JsonLib/jansson" remote="incom" />
+	<project name="platform/external/openssl" path="bootable/tianocore/edk2/CryptoPkg/Library/OpensslLib/openssl" remote="aosp" revision="refs/tags/upstream-OpenSSL_1_1_1n" />
+
 	<project name="CM-Shield/android_device_google_dragonshield.git" path="device/google/dragonshield" remote="incom" />
 
 	<project name="CM-Shield/android_device_nintendo_icosa.git" path="device/nintendo/icosa" remote="incom" />
