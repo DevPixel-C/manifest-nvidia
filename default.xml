@@ -13,9 +13,8 @@
 	<project name="CM-Shield/android_bootable_tianocore_edk2-nvidia-non-osi.git" path="bootable/tianocore/edk2-nvidia-non-osi" remote="incom" />
 	<project name="CM-Shield/android_bootable_tianocore_edk2-platforms.git" path="bootable/tianocore/edk2-platforms" remote="incom" />
 
-	<project name="CM-Shield/android_bootable_tianocore_cmocka.git" path="bootable/tianocore/edk2/UnitTestFrameworkPkg/Library/CmockaLib/cmocka" remote="incom" />
-	<project name="CM-Shield/android_bootable_tianocore_jansson.git" path="bootable/tianocore/edk2/RedfishPkg/Library/JsonLib/jansson" remote="incom" />
-	<project name="platform/external/openssl" path="bootable/tianocore/edk2/CryptoPkg/Library/OpensslLib/openssl" remote="aosp" revision="refs/tags/upstream-OpenSSL_1_1_1n" />
+	<project name="CM-Shield/android_bootable_tianocore_cmocka.git" path="bootable/tianocore/cmocka" remote="incom" />
+	<project name="CM-Shield/android_bootable_tianocore_jansson.git" path="bootable/tianocore/jansson" remote="incom" />
 
 	<project name="CM-Shield/android_device_google_dragonshield.git" path="device/google/dragonshield" remote="incom" />
 
@@ -43,8 +42,7 @@
 
 	<project name="CM-Shield/android_kernel_nvidia_linux-firmware.git" path="kernel/nvidia/linux-firmware" remote="incom" />
 
-	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-4.9" remote="incom" revision="lineage-19.1_4.9" />
-	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel-5.10" remote="incom" revision="lineage-19.1_5.10" />
+	<project name="CM-Shield/android_kernel_nvidia_kernel.git" path="kernel/nvidia/kernel" remote="incom" revision="lineage-19.1_4.9" />
 	<project name="CM-Shield/android_kernel_nvidia_nvidia.git" path="kernel/nvidia/nvidia" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_nvethernetrm.git" path="kernel/nvidia/nvidia/drivers/net/ethernet/nvidia/nvethernet/nvethernetrm" remote="incom" />
 	<project name="CM-Shield/android_kernel_nvidia_nvgpu.git" path="kernel/nvidia/nvgpu" remote="incom" />
@@ -91,4 +89,7 @@
 	<project name="CM-Shield/android_hardware_nvidia_thermal.git" path="hardware/nvidia/thermal" remote="incom" />
 
 	<project name="CM-Shield/proprietary_vendor_nvidia.git" path="vendor/nvidia" remote="incom" />
+
+	<project name="CM-Shield/manifest.git" path="manifest" remote="incom" />
+	<project name="CM-Shield/scripts.git" path="scripts" remote="incom" />
 </manifest>
